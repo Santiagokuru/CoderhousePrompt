@@ -1,7 +1,7 @@
 La web page donde se visualiza la problematica es:
 # https://catchbot-4vnhbe6q5-santiagokurus-projects.vercel.app/ #
 
-Arcvhidos del proyecto: 
+Arcvhidos del proyecto: <br>
 1 -CatchBot.ipynb     -  es el nootebook del colab donde se explica el procesod e creación del proyecto
 2- Prompt de agente matriz.pdf    -  Archivo PDF donde se visualiza el prompt principal
 3- Ravasi Santiago justiiccacion de la problematica.pdf   -   archivod e justificación en pdf
